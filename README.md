@@ -4,7 +4,7 @@
 
 [![Issues](https://img.shields.io/github/issues/Code1616/Fivem-help-menu)](https://github.com/Code1616/Fivem-help-menu/issues)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![Made with Love](https://img.shields.io/badge/Made%20with-Love-ff69b4.svg)](https://github.com/Code1616/Fivem-help-menu)
+[![Made with Love](https://img.shields.io/badge/Made%20with-Love-ff69b4.svg)](https://github.com/Code1616/FIivem-help-menu)
 
 </div>
 
